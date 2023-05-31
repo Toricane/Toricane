@@ -2,7 +2,8 @@
 
 I'm Toricane, a high schooler who likes to code in Python.
 
-* 🤖 I am a Core Dev at [interactions.py](https://github.com/interactions-py/)
+* 🤖 I am a contributor of [interactions.py](https://github.com/interactions-py/)
+* 🌐 I am into web development right now
 * 🚲 I like to bike
 * 📧 Reach me at `Toricane#0818` on Discord
 
