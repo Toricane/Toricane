@@ -1,0 +1,4 @@
+# Local LinkedIn source data, converted export, and conversion environment
+/Complete_LinkedInDataExport*.zip*
+/linkedin_export/
+/.venv-linkedin/
