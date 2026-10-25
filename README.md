@@ -6,7 +6,7 @@ I'm a second-year Engineering Physics student at UBC, interested in AI, robotics
 
 I learn by building, sharing my work, and improving it through feedback. Outside of that, I like hiking, biking, chess, and [writing about what I'm learning](https://prajwalprashanth.substack.com/).
 
-[Portfolio](https://prajwal.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/prajwal-prashanth/) · [Resume](https://github.com/Toricane/resume/blob/main/resume.md) · [Email](mailto:prajwal028@outlook.com)
+[Portfolio](https://prajwal.is-a.dev/?utm_source=github) · [LinkedIn](https://www.linkedin.com/in/prajwal-prashanth/) · [Resume](https://github.com/Toricane/resume/blob/main/resume.md) · [Email](mailto:prajwal028@outlook.com)
 
 ---
 
